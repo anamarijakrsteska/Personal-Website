@@ -216,6 +216,7 @@ section{
     padding-left: 30px;
     text-decoration: none;
     font-family: Arial,sans-serif;
+    font-weight: bold;
 }
 .social-icons1{
     padding-top: 2px;
@@ -241,6 +242,7 @@ section{
     text-decoration: none;
     font-family: Arial,sans-serif;
     padding-left: 30px;
+    font-weight: bold;
 }
 .social-icons2 a {
     margin: 0 10px;
